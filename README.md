@@ -1,1 +1,2 @@
-# Hello World
+# Hello Otus
+Я теперь гит_мастер омг
